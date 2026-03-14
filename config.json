@@ -1,0 +1,47 @@
+{
+"schoolName":"Next Gen. International School, Banahatti",
+
+"tagline":"Zero to Infinity",
+
+"about":"Next Gen International School provides joyful learning for children through creative activities and early education.",
+
+"address":"Banahatti, Karnataka",
+
+"phone":"+91 70220 66009",
+
+"email":"nextgenbnt@gmail.com",
+
+"banner":"images/banner.png",
+
+"map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3940.403613275081!2d75.1313024!3d16.484243!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc731266fffffff%3A0x91a5542dfb6ebbf7!2sNext%20Gen.%20International%20School!5e1!3m2!1sen!2sin!4v1773410925424!5m2!1sen!2sin",
+
+"facebook":"https://www.facebook.com/NGISBNT",
+
+"instagram":"https://www.instagram.com/nextgenbnt",
+
+"youtube":"https://www.youtube.com/@nextgenbnt",
+
+"whatsapp":"917022066009",
+
+"admissionYear":"2026-27",
+
+"programs":[
+{"name":"Playgroup","description":"Fun activities for toddlers."},
+{"name":"Nursery","description":"Early learning with play based education."},
+{"name":"LKG","description":"Foundation learning for children."},
+{"name":"UKG","description":"Preparing kids for primary school."}
+],
+
+"gallery":[
+"images/gallery1.jpg",
+"images/gallery2.jpg",
+"images/gallery3.jpg"
+],
+
+"testimonials":[
+{"name":"Anita","text":"Best preschool in the area."},
+{"name":"Ravi","text":"Teachers are very caring."},
+{"name":"Suma","text":"My child loves going to school."}
+]
+
+}
